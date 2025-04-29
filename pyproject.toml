@@ -59,7 +59,6 @@ select = [
     "SIM", # flake8-simplify - Code simplification
 ]
 
-# Tell Ruff/isort that pytemplate is first party, so that it puts it last in the imports
 [tool.ruff.lint.isort]
 known-first-party = ["litegrad"]
 
