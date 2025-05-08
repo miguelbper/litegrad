@@ -45,7 +45,6 @@ package = true
 # ------------------------------------------------------------------------------
 
 [tool.ruff]
-target-version = "py39"
 line-length = 120
 
 # Set of rules taken from https://docs.astral.sh/ruff/linter/#rule-selection
